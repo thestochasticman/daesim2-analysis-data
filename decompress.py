@@ -28,5 +28,5 @@ decompress_zips_to_one_folder("path/to/folder")
 
 # Example Usage
 decompress_zips_to_one_folder(
-  '/home/y/daesim2-analysis-data/FAST_results/Rutherglen_1971_test/compressed_parameters', 
-  '/home/y/daesim2-analysis-data/FAST_results/Rutherglen_1971_test/parameters' )
+  'FAST_results/Rutherglen_1971_test/compressed_parameters', 
+  'FAST_results/Rutherglen_1971_test/parameters' )
